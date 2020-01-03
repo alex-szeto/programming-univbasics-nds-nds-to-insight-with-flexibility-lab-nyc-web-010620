@@ -52,7 +52,7 @@ def movies_with_director_key(name, movies_collection)
   index = 0
   
   while movies_collection do
-    output.push(movie_with_director_name(name, movies_collection[])
+    output.push(movie_with_director_name(name, movies_collection[index])
   end
   return output
 end
