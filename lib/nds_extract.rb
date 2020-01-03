@@ -74,8 +74,10 @@ def gross_per_studio(collection)
   index = 0
   output = {}
   
-  while 
-  
+  while collection.length > index do
+    
+  end
+  return output
   
 end
 
