@@ -88,7 +88,12 @@ def movies_with_directors_set(source)
   output = []
   index = 0
   
+  while source.length > index do
   
+  
+  
+  index += 1
+  end
   
 end
 
